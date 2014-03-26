@@ -1,0 +1,1836 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp14-cs242/aqiu2">
+<entry
+   kind="dir">
+<name>.metadata</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.lock</name>
+<size>0</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.log</name>
+<size>3407</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.mylyn</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.mylyn/contexts</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.mylyn/repositories.xml.zip</name>
+<size>440</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.history</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.history/93</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.resources/.history/93/c0334dcabe87001313b08e298fb504d2</name>
+<size>207</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.projects</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.projects/HW0</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/.indexes</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/.indexes/history.index</name>
+<size>42</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/.markers</name>
+<size>649</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/org.eclipse.jdt.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/org.eclipse.jdt.core/state.dat</name>
+<size>4026</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.root</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.root/.indexes</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version</name>
+<size>1</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index</name>
+<size>203</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version</name>
+<size>1</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.resources/.safetable</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources</name>
+<size>1559</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.runtime</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs</name>
+<size>42</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs</name>
+<size>423</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs</name>
+<size>448</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs</name>
+<size>994</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs</name>
+<size>58</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs</name>
+<size>62</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs</name>
+<size>97</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs</name>
+<size>185</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs</name>
+<size>98</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs</name>
+<size>57</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs</name>
+<size>69</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs</name>
+<size>169</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs</name>
+<size>48</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs</name>
+<size>2849</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.core.prefs</name>
+<size>93</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.debug.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.e4.workbench</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi</name>
+<size>403625</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.jdt.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/1195944079.index</name>
+<size>9816</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/1322344347.index</name>
+<size>44604</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/1789169078.index</name>
+<size>147448</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/221595713.index</name>
+<size>4940</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/2877109961.index</name>
+<size>35792</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/3000053649.index</name>
+<size>25</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/3270002986.index</name>
+<size>9641000</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/3277441100.index</name>
+<size>21328</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/3585733931.index</name>
+<size>45471</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/3730526690.index</name>
+<size>4219</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/4251467834.index</name>
+<size>182594</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps</name>
+<size>563</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache</name>
+<size>4</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt</name>
+<size>4</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache</name>
+<size>483</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt</name>
+<size>271</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat</name>
+<size>1246</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.jdt.junit.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.jdt.junit.core/history</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.jdt.launching</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.launching/.install.xml</name>
+<size>138</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml</name>
+<size>895</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.jdt.ui</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml</name>
+<size>76</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml</name>
+<size>85</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.mylyn.bugzilla.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.mylyn.context.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.mylyn.context.core/contexts</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.mylyn.tasks.ui</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.pde.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.pde.core/.cache</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties</name>
+<size>51</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.pde.core/.p2</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.pde.core/.p2/org.eclipse.equinox.p2.engine</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.pde.core/.p2/org.eclipse.equinox.p2.engine/profileRegistry</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.rse.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.rse.core/.log</name>
+<size>0</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.rse.core/initializerMarks</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark</name>
+<size>0</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.rse.core/profiles</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/FP.local.files_0</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/FP.local.files_0/node.properties</name>
+<size>2359</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/H.local_16</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/H.local_16/node.properties</name>
+<size>1089</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/node.properties</name>
+<size>164</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.rse.ui</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.rse.ui/.log</name>
+<size>0</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.team.cvs.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.ui.ide</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml</name>
+<size>295</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.ui.intro</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.ui.workbench</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml</name>
+<size>684</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.wst.common.modulecore</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps</name>
+<size>416</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js</name>
+<size>159225</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js</name>
+<size>11800</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js</name>
+<size>159225</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js</name>
+<size>40453</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js</name>
+<size>2777</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat</name>
+<size>12</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.metadata/.plugins/org.python.pydev</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.metadata/version.ini</name>
+<size>26</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Source.cpp</name>
+<size>6360</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3457">
+<author>aqiu2</author>
+<date>2014-02-07T17:29:01.396030Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/cs242hw10.zip</name>
+<size>14194</size>
+<commit
+   revision="3457">
+<author>aqiu2</author>
+<date>2014-02-07T17:29:01.396030Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4797">
+<author>aqiu2</author>
+<date>2014-02-14T18:49:15.371502Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>102762</size>
+<commit
+   revision="4622">
+<author>aqiu2</author>
+<date>2014-02-14T08:28:30.483846Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/cs242 hw11 gui testing.pdf</name>
+<size>180791</size>
+<commit
+   revision="4797">
+<author>aqiu2</author>
+<date>2014-02-14T18:49:15.371502Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/cs242hw11.zip</name>
+<size>19732</size>
+<commit
+   revision="4622">
+<author>aqiu2</author>
+<date>2014-02-14T08:28:30.483846Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="6051">
+<author>aqiu2</author>
+<date>2014-02-21T16:06:38.457367Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>102762</size>
+<commit
+   revision="6051">
+<author>aqiu2</author>
+<date>2014-02-21T16:06:38.457367Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/cs242 hw12 gui testing.pdf</name>
+<size>954136</size>
+<commit
+   revision="6051">
+<author>aqiu2</author>
+<date>2014-02-21T16:06:38.457367Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/cs242hw12.zip</name>
+<size>347789</size>
+<commit
+   revision="6051">
+<author>aqiu2</author>
+<date>2014-02-21T16:06:38.457367Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/AirlineCommandInterface.py</name>
+<size>3229</size>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/AirlineGraph.py</name>
+<size>6253</size>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/TestAirlineGraph.py</name>
+<size>7116</size>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/map_data</name>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/map_data/map_data.json</name>
+<size>16826</size>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/map_data/map_test0.json</name>
+<size>1240</size>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/map_data/map_test1.json</name>
+<size>1212</size>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/map_data/map_test2.json</name>
+<size>1241</size>
+<commit
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7776">
+<author>aqiu2</author>
+<date>2014-03-07T17:51:01.000834Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/AirlineCommandInterface.py</name>
+<size>6358</size>
+<commit
+   revision="7776">
+<author>aqiu2</author>
+<date>2014-03-07T17:51:01.000834Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/AirlineGraph.py</name>
+<size>7791</size>
+<commit
+   revision="7776">
+<author>aqiu2</author>
+<date>2014-03-07T17:51:01.000834Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Graph.py</name>
+<size>4832</size>
+<commit
+   revision="7776">
+<author>aqiu2</author>
+<date>2014-03-07T17:51:01.000834Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/TestAirlineGraph.py</name>
+<size>6711</size>
+<commit
+   revision="7776">
+<author>aqiu2</author>
+<date>2014-03-07T17:51:01.000834Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/TestGraph.py</name>
+<size>4292</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/map_data</name>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/map_data.json</name>
+<size>16826</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/map_data1.json</name>
+<size>29768</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/map_data2.json</name>
+<size>29768</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/map_test0.json</name>
+<size>1240</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/map_test01.json</name>
+<size>1866</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/map_test02.json</name>
+<size>1866</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/map_test1.json</name>
+<size>1501</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/map_test2.json</name>
+<size>1241</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data/my_example.json</name>
+<size>29768</size>
+<commit
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation</name>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4548</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/Network.class</name>
+<size>7238</size>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Node.class</name>
+<size>2997</size>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9528</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>11890</size>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>4195</size>
+<commit
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>RemoteSystemsTempFiles</name>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>RemoteSystemsTempFiles/.project</name>
+<size>289</size>
+<commit
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>localgrocery</name>
+<commit
+   revision="295">
+<author>aqiu2</author>
+<date>2014-01-28T01:41:03.180181Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>localgrocery/list1.txt</name>
+<size>82</size>
+<commit
+   revision="295">
+<author>aqiu2</author>
+<date>2014-01-28T01:41:03.180181Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>localgrocery/list2.txt</name>
+<size>82</size>
+<commit
+   revision="295">
+<author>aqiu2</author>
+<date>2014-01-28T01:41:03.180181Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>localgrocery/list3.txt</name>
+<size>25</size>
+<commit
+   revision="295">
+<author>aqiu2</author>
+<date>2014-01-28T01:41:03.180181Z</date>
+</commit>
+</entry>
+</list>
+</lists>

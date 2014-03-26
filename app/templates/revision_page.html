@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block project_list %}
+<div class="page-header"><h1>List of Revisions for {{file}}</h1></div>
+<ul>
+<li><iframe src="https://subversion.ews.illinois.edu/svn/sp14-cs242/aqiu2/{{file}}" width=600px height = 600px></iframe></li>
+{% for revision in revisions %}
+    <li>
+    <b>{{revision}}</b>
+        <ul>
+            <li>Author: <i>{{revisions[revision].author}}</i></li>
+            <li>Latest Revision Date: <i>{{revisions[revision].date}}</i></li>
+        </ul>
+    </li>
+{% endfor %}
+</ul>
+{% endblock %}

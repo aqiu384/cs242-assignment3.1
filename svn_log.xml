@@ -1,0 +1,820 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7776">
+<author>aqiu2</author>
+<date>2014-03-07T17:51:01.000834Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aqiu2/Assignment2.1/Graph.py</path>
+<path
+   kind="file"
+   action="M">/aqiu2/Assignment2.1/AirlineCommandInterface.py</path>
+<path
+   kind="file"
+   action="M">/aqiu2/Assignment2.1/AirlineGraph.py</path>
+<path
+   kind="file"
+   action="M">/aqiu2/Assignment2.1/TestAirlineGraph.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7763">
+<author>aqiu2</author>
+<date>2014-03-07T16:49:03.411339Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/Graph.py</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/TestGraph.py</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/AirlineCommandInterface.py</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/map_test01.json</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/AirlineGraph.py</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/TestAirlineGraph.py</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/map_test02.json</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/map_data1.json</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/Assignment2.1/map_data</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/map_data2.json</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/map_test0.json</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/map_test1.json</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/map_test2.json</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/my_example.json</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.1/map_data/map_data.json</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6476">
+<author>aqiu2</author>
+<date>2014-02-26T20:46:58.344992Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.0/AirlineCommandInterface.py</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.0/map_data/map_test0.json</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.0/map_data/map_test1.json</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.0/AirlineGraph.py</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.0/TestAirlineGraph.py</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.0/map_data/map_test2.json</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/Assignment2.0</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment2.0/map_data/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/Assignment2.0/map_data</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6051">
+<author>aqiu2</author>
+<date>2014-02-21T16:06:38.457367Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment1.2/cs242 hw12 gui testing.pdf</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment1.2/cs242hw12.zip</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment1.2/Doxyfile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4797">
+<author>aqiu2</author>
+<date>2014-02-14T18:49:15.371502Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment1.1/cs242 hw11 gui testing.pdf</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4622">
+<author>aqiu2</author>
+<date>2014-02-14T08:28:30.483846Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment1.1/cs242hw11.zip</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment1.1/Doxyfile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3457">
+<author>aqiu2</author>
+<date>2014-02-07T17:29:01.396030Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aqiu2/Assignment1.0/cs242hw10.zip</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3331">
+<author>aqiu2</author>
+<date>2014-02-07T08:03:53.140441Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment1.0/cs242hw10.zip</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/Assignment1.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="308">
+<author>aqiu2</author>
+<date>2014-01-28T02:44:31.976745Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/4251467834.index</path>
+<path
+   kind="file"
+   action="A">/aqiu2/RemoteSystemsTempFiles/.project</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.pde.core/.p2/org.eclipse.equinox.p2.engine/profileRegistry</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/org.eclipse.jdt.core/state.dat</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.mylyn</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/2877109961.index</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/221595713.index</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.ui</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.lock</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/1322344347.index</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/node.properties</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/initializerMarks</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/3270002986.index</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/profiles</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/3730526690.index</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/H.local_16</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/FP.local.files_0/node.properties</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.history</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/Assignment0</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/.indexes</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/1789169078.index</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/RemoteSystemsTempFiles</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/.markers</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.mylyn.context.core/contexts</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/version.ini</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.pde.core</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.common.modulecore</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.root</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.ui/.log</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.mylyn/repositories.xml.zip</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.safetable</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.history/93</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.debug.core</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.ui.ide</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.mylyn/contexts</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.history/93/c0334dcabe87001313b08e298fb504d2</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/org.eclipse.jdt.core</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.e4.workbench</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.projects/HW0/.indexes/history.index</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/3000053649.index</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.ui.workbench</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/FP.local.files_0</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.pde.core/.p2</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.mylyn.bugzilla.core</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/3585733931.index</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/1195944079.index</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/.log</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.pde.core/.cache</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.mylyn.context.core</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.pde.core/.p2/org.eclipse.equinox.p2.engine</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.python.pydev</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.allenqiu-vaio_4239/H.local_16/node.properties</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.log</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.launching</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/3277441100.index</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.junit.core</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.junit.core/history</path>
+<path
+   kind="file"
+   action="A">/aqiu2/Assignment0/Source.cpp</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.rse.ui</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.projects/HW0</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.ui.intro</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.team.cvs.core</path>
+<path
+   kind="file"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.core.resources/.projects</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/.metadata/.plugins/org.eclipse.mylyn.tasks.ui</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="306">
+<author>aqiu2</author>
+<date>2014-01-28T02:26:27.312813Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aqiu2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="file"
+   action="M">/aqiu2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="M">/aqiu2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="M">/aqiu2/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>
+</msg>
+</logentry>
+<logentry
+   revision="298">
+<author>aqiu2</author>
+<date>2014-01-28T01:55:33.045691Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/bin/lanSimulation</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/src</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/javadoc.xml</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/bin</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/aqiu2/HW0/bin/lanSimulation/internals/Node.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="295">
+<author>aqiu2</author>
+<date>2014-01-28T01:41:03.180181Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/localgrocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/aqiu2/localgrocery/list2.txt</path>
+<path
+   kind="file"
+   action="A">/aqiu2/localgrocery/list3.txt</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/localgrocery</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="294">
+<author>aqiu2</author>
+<date>2014-01-28T01:38:49.210460Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aqiu2/grocery</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="291">
+<author>aqiu2</author>
+<date>2014-01-28T01:34:49.414297Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aqiu2/localgrocery</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="288">
+<author>aqiu2</author>
+<date>2014-01-28T01:30:18.073163Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/localgrocery/list3.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="286">
+<author>aqiu2</author>
+<date>2014-01-28T01:29:30.511860Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aqiu2/grocery/list2.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="285">
+<author>aqiu2</author>
+<date>2014-01-28T01:29:19.361374Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aqiu2/localgrocery/list2.txt</path>
+</paths>
+<msg>
+</msg>
+</logentry>
+<logentry
+   revision="284">
+<author>aqiu2</author>
+<date>2014-01-28T01:27:05.401601Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/localgrocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/aqiu2/localgrocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/localgrocery</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="283">
+<author>aqiu2</author>
+<date>2014-01-28T01:23:30.769929Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aqiu2/grocery/list2.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="282">
+<author>aqiu2</author>
+<date>2014-01-28T01:20:33.689402Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aqiu2/grocery/list1.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="281">
+<author>aqiu2</author>
+<date>2014-01-28T01:18:41.374502Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aqiu2/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/aqiu2/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/aqiu2/grocery</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="22">
+<author>root</author>
+<date>2014-01-26T21:15:11.187585Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/aqiu2</path>
+</paths>
+<msg>created directory aqiu2</msg>
+</logentry>
+</log>

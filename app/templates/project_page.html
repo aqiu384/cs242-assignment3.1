@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block project_list %}
+<div class="page-header"><h1>List of Files in {{project}}</h1></div>
+<div class="row">
+{% for file in files %}
+    <div class="col-sm-4">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title"><a href="/revision/{{file}}">{{files[file].name}}</a></h3>
+        </div>
+        <div class="panel-body">
+          <ul class = "list-unstyled">
+            <li>Path: <i>{{file}}</i></li>
+            <li>Latest Revision Number: <i>{{files[file].revision}}</i></li>
+            <li>Author: <i>{{files[file].author}}</i></li>
+            <li>Latest Revision Date: <i>{{files[file].date}}</i></li>
+            <li>Size: <i>{{files[file].file_size}}</i></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+{% endfor %}
+</div>
+{% endblock %}

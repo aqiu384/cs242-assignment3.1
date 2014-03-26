@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block project_list %}
+<div class="page-header"><h1>Adding a New Post</h1></div>
+<form action="" method="post" name="post">
+    {{form.hidden_tag()}}
+        <h4>Author Name:</h4>
+        <div class="control-group">
+            <div class="controls">
+                {{ form.author }} 
+            </div>
+        </div>
+        <h4>Post Message:</h4>
+        <div class="control-group">
+            <div class="controls">
+                {{ form.body }}
+            </div>
+        </div>
+        <br>
+        <div class="control-group">
+            <div class="controls">
+                <input class="btn btn-primary" type="submit" value="Submit Post">
+            </div>
+        </div>
+</form>
+{% endblock %}

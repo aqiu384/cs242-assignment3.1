@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block project_list %}
+<div class="page-header"><h1>List of Projects for Allen Qiu</h1></div>
+<div class="row">
+{% for project in projects %}
+    <div class="col-sm-4">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title"><a href="/project/{{project}}">{{project}}</a></h3>
+        </div>
+        <div class="panel-body">
+          <ul class = "list-unstyled">
+            <li>Latest Revision Number: <i>{{projects[project].revision}}</i></li>
+            <li>Author: <i>{{projects[project].author}}</i></li>
+            <li>Project Description: <i>{{projects[project].info}}</i></li>
+            <li>Latest Revision Date: <i>{{projects[project].date}}</i></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+{% endfor %}
+</div>
+<div class="page-header"><h1>Comments</h1></div>
+<h3><a href="/respond/0">Create New Comment</h3></a>
+{%- for post in post_tree recursive %}
+<blockquote>
+    <footer>Posted by {{post[0].author}} on {{post[0].timestamp}} - <a href="respond/{{post[0].id}}">Respond to Post</a></footer>
+    <p>{{post[0].body}}</p>
+    {%- if post[1] -%}
+        {{loop(post[1])}}
+    {%- endif %}
+</blockquote>
+{%- endfor %}
+{% endblock %}
